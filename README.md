@@ -12,9 +12,6 @@ I am a Masters student at Colorado School of Mines, studying Hydrogeophysics and
 - Favorite coding langauge: Python
 - Favorite food: quesadillas with bell peppers
 
-### Current Project(s)
-- **paleoPEAR:** A Python repository is in the works for calculating cosmogenic nuclide exposure ages, particularly in regards to previous extents of glaciers and ice sheets. This repository is a sort of re-make of the iceTEA (Tools for Exposure Ages at Ice Margins) repository linked [here](http://ice-tea.org/en/), coded mostly in MATLAB. My repository, Python Exposure Age Repository for Paleoglaciology (paleoPEAR) will be coded mostly -- or entirely -- in Python. In addition to beryllium-10 and aluminum-26, I will add support for *in-situ* cosmogenic carbon-14. The repository will be private until it is ready to be used for science.
-
 <img align="right" width="100" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4b3k2MXNhdGxvdGI4YjZ4a3pkdTlldHZpcWZrZm1mbGRsb3R4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.webp">
 
 ### Contact
