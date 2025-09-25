@@ -15,8 +15,7 @@ I am a Masters student at Colorado School of Mines, studying Hydrogeophysics and
 <img align="right" width="100" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo4b3k2MXNhdGxvdGI4YjZ4a3pkdTlldHZpcWZrZm1mbGRsb3R4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ytVgZ6Ea4y5aiEG8IY/giphy.webp">
 
 ### Contact
-- Connect with me on [Twitter](https://x.com/brandondaly2018)
-- I am also on [Bluesky](https://bsky.app/profile/bdglaciers.bsky.social)
+- Connect with me on [Bluesky](https://bsky.app/profile/bdglaciers.bsky.social)
 - Also subscribe to my (free) Substack ["Glaciers and Whatnot"](https://glaciersandwhatnot.substack.com/)
 
 <!--
